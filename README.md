@@ -48,4 +48,4 @@ University of Coimbra
 ## Connect with Me  
 **Email:** martinusboom@gmail.com  
 **LinkedIn:** [Martinus Boom](https://www.linkedin.com/in/martinus-boom-9475a9270)  
-**GitHub:** [MartinusBoomUc2024154464](https://github.com/MartinusBoomUc2024154464)  
+**GitHub:** [martinusboomuc](https://github.com/martinusboomuc)  
