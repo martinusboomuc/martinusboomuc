@@ -11,7 +11,7 @@ University of Coimbra
 - Implemented **Active Learning strategies** to optimize dataset labeling  
 - Utilized **CNNs** and data balancing techniques to improve accuracy  
 
-**Repo:** [AL_PneumoniaDetection](https://github.com/MartinusBoomUc2024154464/AL_PneumoniaDetection.git)  
+**Repo:** [AL_PneumoniaDetection](https://github.com/martinusboomuc/AL_PneumoniaDetection.git)  
 
 ### **ML Model for COVID-19 Patient Stratification**  
 - Built an **integrated ML model** for identifying and categorizing COVID-19 patients  
@@ -19,21 +19,21 @@ University of Coimbra
 - Applied **feature selection & clustering** for patient stratification  
 - Focused on **medical AI applications** for improved healthcare outcomes  
 
-**Repo:** [ML_CovidPatientStratification](https://github.com/MartinusBoomUc2024154464/ML_CovidPatientStratification.git)
+**Repo:** [ML_CovidPatientStratification](https://github.com/martinusboomuc/ML_CovidPatientStratification.git)
 
 ### **Chasing Phishing URLs**  
 - **Phishing URL detection** using multiple **ML classifiers** (MDC, Bayes, k-NN, SVM)  
 - Explored **feature selection**, **scaling**, **PCA/LDA**, and **SMOTE** to improve generalization  
 - Comprehensive **cross-validation** and **test-set evaluation** on the **PhiUSIIL** dataset  
 
-**Repo:** [ChasingPhishingURLs](https://github.com/MartinusBoomUc2024154464/Chasing-Phishing-URLs.git)  
+**Repo:** [ChasingPhishingURLs](https://github.com/martinusboomuc/Chasing-Phishing-URLs.git)  
 
 ### **Survival of the Softest: Evolving Adaptive Soft Robots**  
 - **Evolutionary computation** for soft robots in **EvoGym**  
 - Implemented **GA**, **ES**, and **DE** to optimize **morphology** and **neural controllers**  
 - Phased approach: **structure-only**, **controller-only**, and **co-evolution**  
 
-**Repo:** [SurvivalOfTheSoftest](https://github.com/MartinusBoomUc2024154464/Survival-of-the-Softest--Evolving-Adaptive-Soft-Robots.git)
+**Repo:** [SurvivalOfTheSoftest](https://github.com/martinusboomuc/Survival-of-the-Softest--Evolving-Adaptive-Soft-Robots.git)
 
 ### **Cardiac Risk Prediction using Classical Machine Learning Techniques**  
 - Predicted **cardiac risk** from structured **clinical data**  
@@ -41,7 +41,16 @@ University of Coimbra
 - Evaluated setups **with/without SMOTE**; optimized for **Sensitivity** (medical priority)  
 - Applied **statistical tests** (Friedman, Wilcoxon-Holm) to validate differences  
 
-**Repo:** [CardiacRiskPrediction](https://github.com/MartinusBoomUc2024154464/Cardiac-Risk-Prediction.git)
+**Repo:** [CardiacRiskPrediction](https://github.com/martinusboomuc/Cardiac-Risk-Prediction.git)
+
+### **Knowledge Graph for Scientific Paper Exploration**  
+- Built an **end-to-end pipeline** to extract structured knowledge from AI research papers  
+- Combined **LLM-based NER (Gemini)**, **REBEL relation extraction**, and **rule-based relations**  
+- Designed a custom **ontology + RDF graph**, imported into **Neo4j**  
+- Implemented a **Chat Agent** that allows users to **ask questions and receive answers in natural language**, grounded strictly in the KG  
+- Enables scalable, structured exploration of scientific literature  
+
+**Repo:** [Knowledge-Graph-for-Scientific-Paper-Exploration](https://github.com/martinusboomuc/Knowledge-Graph-for-Scientific-Paper-Exploration.git)
 
 ---
 
