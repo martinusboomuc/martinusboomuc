@@ -21,6 +21,17 @@ University of Coimbra
 
 ## University Projects  
 
+### **MLOps Pipeline for NYC Taxi Trip Duration Prediction**  
+- Built an **end-to-end MLOps pipeline** to predict **NYC Yellow Taxi trip duration**  
+- **Feature engineering** with temporal, contextual and spatial features, under a **consistent schema** across all stages  
+- Compared **Linear Regression**, **Random Forest** and **Gradient Boosting**, tuned with **nested MLflow runs** and evaluated on a held-out test set  
+- **MLflow Model Registry** with **aliases** for controlled promotion from staging to production  
+- **Containerized inference services** that load the active model version from the registry  
+- **Offline monitoring**: data drift (statistical tests), performance drift across slices, and inference monitoring with delayed labels  
+- Automated with **GitHub Actions** CI/CD  
+
+**Repo:** [mlops-nyc-taxi](https://github.com/martinusboomuc/mlops-nyc-taxi)
+
 ### **Active Learning for Pneumonia Detection**  
 - Developed a **Machine Learning model** to classify **chest X-ray images**  
 - Implemented **Active Learning strategies** to optimize dataset labeling  
