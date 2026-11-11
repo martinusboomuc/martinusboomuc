@@ -1,10 +1,25 @@
 # Martinus Boom  
-*Master’s Student in Intelligent Systems (AI) | Computer Science and Engineering*  
+*MSc in Computer Science and Engineering, Intelligent Systems (AI)*  
 University of Coimbra  
 
 ---
 
-## Featured Projects  
+## Personal Projects  
+
+### **AI Infrastructure Lab**  
+- **Hybrid ML infrastructure**: a self-hosted **Proxmox** homelab for the services worth running myself, and **Azure** for the managed ones  
+- **BankML Platform**: a **credit risk model** (WoE scorecard champion, LightGBM challenger) served from **Azure Container Apps**, with **SHAP reason codes** on every decision  
+- Full **model lifecycle**: point-in-time-correct features, **Pandera** data contracts, **MLflow** tracking and registry, an evaluation gate, and **Evidently** drift detection that triggers retraining  
+- Homelab provisioned with **Terraform** and **cloud-init**: **k3s**, Docker, and private networking over **Tailscale**  
+- **Observability** with **Prometheus** and **Grafana**, alerting to Discord across hosts, containers and Kubernetes pods  
+- **Nexus**: a **FastAPI + React** app that shows the live topology and health of the whole lab  
+- Every design decision recorded as an **ADR**; **CI/CD** with **GitHub Actions** and **GHCR**  
+
+**Repo:** [ai-infrastructure-lab](https://github.com/martinusboomuc/ai-infrastructure-lab)  
+
+---
+
+## University Projects  
 
 ### **Active Learning for Pneumonia Detection**  
 - Developed a **Machine Learning model** to classify **chest X-ray images**  
@@ -57,4 +72,4 @@ University of Coimbra
 ## Connect with Me  
 **Email:** martinusboom@gmail.com  
 **LinkedIn:** [Martinus Boom](https://www.linkedin.com/in/martinus-boom-9475a9270)  
-**GitHub:** [martinusboomuc](https://github.com/martinusboomuc)  
+**GitHub:** [martinusboomuc](https://github.com/martinusboomuc) 
